@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="expenses">Expenses</string>
+    <string-array name="list">
+        <item>hello</item>
+        <item>uday</item>
+    </string-array>
+    <string name="balance">Balance</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+
+</resources>
